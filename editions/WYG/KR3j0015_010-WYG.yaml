@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3j0015/WYG/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 按馬端臨文獻經籍考據晁氏云唐趙蕤撰長短經十卷又據北夢瑣言云㽔梓州鹽亭人博學韜鈐長于經世夫婦俱有隠操不應辟召論王霸機權正變之術其第十卷載隂謀家本缺今存者六十四篇然不害其為全書也洪武丁巳秋八月丁巳沈新民識
+  hash: sha256:4d53159a9fbeadd952412bbb0720a5bdf8f1bedc857019bcdf131b8242487ccb
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3j0015_WYG_010-1a, image: WYG0849/WYG0849-0212a.png}
+metadata:
+  title: 長短經
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:19:39.986965'
+  juan_title: 後跋
+  source:
+    repository: kanripo
+    path: KR3j0015/KR3j0015_010.txt
+hash: sha256:9cb4463d80c6b99d873e7fe5cef9a826d0ff5d1487ff8a05729e77498d6e009d

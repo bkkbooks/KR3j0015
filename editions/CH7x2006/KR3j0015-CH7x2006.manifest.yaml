@@ -1,0 +1,479 @@
+canonical_identifier: bkk:krp/KR3j0015/CH7x2006/v1
+canonical_location: https://kanripo.org/bkk/KR3j0015/CH7x2006/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 長短經
+  identifiers:
+    krp: KR3j0015
+  tags:
+    kr-categories: KR3j
+    tls-internal:
+    - core
+    - swl
+    - tr-en
+    - tr-zh
+    tls-dates: dat04430
+  source:
+    repository: tls-texts
+    path: data/tls/KR3j0015.xml
+  edition:
+    short: CH7x2006
+assets:
+  parts:
+  - {seq: 1, filename: KR3j0015_001-CH7x2006.yaml, hash: 'sha256:25eaa076aee5db43af2cfabf33c9e730162298e6ec5841bd39cbd1d13dcdd73e'}
+  - {seq: 2, filename: KR3j0015_002-CH7x2006.yaml, hash: 'sha256:238d72d179b253a2661f2e00bcee89e20ee117efc9cae1c870139b45bc31e834'}
+  - {seq: 3, filename: KR3j0015_003-CH7x2006.yaml, hash: 'sha256:800d7dfd5f0b7b79c2a0ffc838244adcaa55b1547b6bda12cdb23f6186a9d984'}
+  - {seq: 4, filename: KR3j0015_004-CH7x2006.yaml, hash: 'sha256:6023bf16224107a63d7ceae2d941451506770c248c13eddc23aae92de593d026'}
+  - {seq: 5, filename: KR3j0015_005-CH7x2006.yaml, hash: 'sha256:e360d5feb1899ba40e4c1c19e72d58bd6ee4c6e54269962e1d9213c8d2451fc3'}
+  - {seq: 6, filename: KR3j0015_006-CH7x2006.yaml, hash: 'sha256:ec51a139f9311a71b2c0e35f5f282a33119220b303980853fafd822b57a5c037'}
+  - {seq: 7, filename: KR3j0015_007-CH7x2006.yaml, hash: 'sha256:b53462d2a32988e0f99e73c6791cbbad4c286ff6d35d2b72e0cab52c38f44ad8'}
+  - {seq: 8, filename: KR3j0015_008-CH7x2006.yaml, hash: 'sha256:17048125541ed64fcafd96a7a9f02d586108db590a5f067ad4f5aad47b5790b0'}
+  - {seq: 9, filename: KR3j0015_009-CH7x2006.yaml, hash: 'sha256:6565cdafa0173eaa980a85a804006742fff217d259ec2d085d1f28a55cf7f390'}
+  - {seq: 10, filename: KR3j0015_010-CH7x2006.yaml, hash: 'sha256:3cd33681bfc0b8c87e0417f51b8ad447dce4b4fc7ef023530b185d3085841c71'}
+  - {seq: 11, filename: KR3j0015_011-CH7x2006.yaml, hash: 'sha256:935716dda62333bcf7d9c70d4cc5a4d7c838d5bc73e4d8aef0287b16cce9e51b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3j0015_001-CH7x2006.markers.yaml, hash: 'sha256:10369866f0a043bdc68f3215055a71d801f7668f05d48b018c0a4820dd9994fb'}
+  - {seq: 2, role: markers, filename: assets/KR3j0015_002-CH7x2006.markers.yaml, hash: 'sha256:1740f637c0cd7d0b70385371cf6c6be33f3a1bd2e64bc7112460f5dc66ffb510'}
+  - {seq: 3, role: markers, filename: assets/KR3j0015_003-CH7x2006.markers.yaml, hash: 'sha256:d4a10bbed18c91e74c8da49a3243a718d7ae2bf5b86f7658398d7af0019b2a66'}
+  - {seq: 4, role: markers, filename: assets/KR3j0015_004-CH7x2006.markers.yaml, hash: 'sha256:f6f910441d561ab0b1b8a8eab5642b0a9b77aebe2a976f385f3b104c3c83b0e0'}
+  - {seq: 5, role: markers, filename: assets/KR3j0015_005-CH7x2006.markers.yaml, hash: 'sha256:d9b7f60536efba87f83e0b97a42f813f702ce4c7c17746bbf98fa16563d9bdad'}
+  - {seq: 6, role: markers, filename: assets/KR3j0015_006-CH7x2006.markers.yaml, hash: 'sha256:8c502c3f688f5e34af6b9857b985583464f8ea097acd913d43977ddfa764c619'}
+  - {seq: 7, role: markers, filename: assets/KR3j0015_007-CH7x2006.markers.yaml, hash: 'sha256:a4f9ae792a295f85d82ab4cbbffc9bcb4c07564e5c0bae48367e805cb5312be0'}
+  - {seq: 8, role: markers, filename: assets/KR3j0015_008-CH7x2006.markers.yaml, hash: 'sha256:3caeabfa24ca6c92d8f4c7f723164fb4b8275486a8c31e637413d468ffb78d3b'}
+  - {seq: 9, role: markers, filename: assets/KR3j0015_009-CH7x2006.markers.yaml, hash: 'sha256:0bf20611e7eaaa0b543cbe470d42134bb6356fd9517afb4263c6da3e8866dcc1'}
+  - {seq: 10, role: markers, filename: assets/KR3j0015_010-CH7x2006.markers.yaml, hash: 'sha256:08cde8473310c5e566297c010a6af0a4dc2292ca4755242a399062b828f12bd6'}
+  - {seq: 11, role: markers, filename: assets/KR3j0015_011-CH7x2006.markers.yaml, hash: 'sha256:a6b82da7e64ced2360423cf126b498f8e6a215c479278bc454b6facd735afb82'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3j0015_CH7x2006_001-1a.1-h
+    span:
+    - front
+    - 0
+    - 559
+  label: 儒門經濟長短經序
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3j0015_CH7x2006_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 1068
+  label: 大體第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3j0015_CH7x2006_002-2a.1-h
+    span:
+    - body
+    - 1068
+    - 1923
+  label: 任長第二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3j0015_CH7x2006_002-3a.1-h
+    span:
+    - body
+    - 1923
+    - 3104
+  label: 品目第三
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3j0015_CH7x2006_002-4a.1-h
+    span:
+    - body
+    - 3104
+    - 5145
+  label: 量才第四
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3j0015_CH7x2006_002-5a.1-h
+    span:
+    - body
+    - 5145
+    - 9995
+  label: 知人第五
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3j0015_CH7x2006_002-6a.1-h
+    span:
+    - body
+    - 9995
+    - 16697
+  label: 察相第六
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3j0015_CH7x2006_002-7a.1-h
+    span:
+    - body
+    - 16697
+    - 19671
+  label: 論士第七
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3j0015_CH7x2006_002-8a.1-h
+    span:
+    - body
+    - 19671
+    - 22303
+  label: 政體第八
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3j0015_CH7x2006_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 10190
+  label: 君德第九
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3j0015_CH7x2006_003-2a.1-h
+    span:
+    - body
+    - 10190
+    - 15948
+  label: 臣行第十
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3j0015_CH7x2006_003-3a.1-h
+    span:
+    - body
+    - 15948
+    - 17275
+  label: 德表第十一
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3j0015_CH7x2006_003-4a.1-h
+    span:
+    - body
+    - 17275
+    - 18770
+  label: 理亂第十二
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3j0015_CH7x2006_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 3164
+  label: 反經第十三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3j0015_CH7x2006_004-2a.1-h
+    span:
+    - body
+    - 3164
+    - 10688
+  label: 是非第十四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3j0015_CH7x2006_004-3a.1-h
+    span:
+    - body
+    - 10688
+    - 14996
+  label: 適變第十五
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3j0015_CH7x2006_004-4a.1-h
+    span:
+    - body
+    - 14996
+    - 20875
+  label: 正論第十六
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3j0015_CH7x2006_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 29440
+  label: 霸圖第十七
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3j0015_CH7x2006_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 17350
+  label: 七雄略第十八
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3j0015_CH7x2006_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 19724
+  label: 三國權第十九
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3j0015_CH7x2006_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 16024
+  label: 懼誡第二十
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3j0015_CH7x2006_008-2a.1-h
+    span:
+    - body
+    - 16024
+    - 18790
+  label: 時宜第二十一
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0015_CH7x2006_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 1808
+  label: 釣情第二十二
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0015_CH7x2006_009-2a.1-h
+    span:
+    - body
+    - 1808
+    - 3394
+  label: 詭信第二十三
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0015_CH7x2006_009-3a.1-h
+    span:
+    - body
+    - 3394
+    - 4162
+  label: 忠疑第二十四
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0015_CH7x2006_009-4a.1-h
+    span:
+    - body
+    - 4162
+    - 4476
+  label: 用無用第二十五
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0015_CH7x2006_009-5a.1-h
+    span:
+    - body
+    - 4476
+    - 4759
+  label: 恩生怨第二十六
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0015_CH7x2006_009-6a.1-h
+    span:
+    - body
+    - 4759
+    - 6793
+  label: 詭順第二十七
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0015_CH7x2006_009-7a.1-h
+    span:
+    - body
+    - 6793
+    - 7440
+  label: 難必第二十八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0015_CH7x2006_009-8a.1-h
+    span:
+    - body
+    - 7440
+    - 10871
+  label: 運命第二十九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0015_CH7x2006_009-9a.1-h
+    span:
+    - body
+    - 10871
+    - 11156
+  label: 大私第三十
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0015_CH7x2006_009-10a.1-h
+    span:
+    - body
+    - 11156
+    - 11621
+  label: 敗功第三十一
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0015_CH7x2006_009-11a.1-h
+    span:
+    - body
+    - 11621
+    - 12722
+  label: 昏智第三十二
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0015_CH7x2006_009-12a.1-h
+    span:
+    - body
+    - 12722
+    - 13896
+  label: 卑政第三十三
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0015_CH7x2006_009-13a.1-h
+    span:
+    - body
+    - 13896
+    - 14214
+  label: 善亡第三十四
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0015_CH7x2006_009-14a.1-h
+    span:
+    - body
+    - 14214
+    - 14764
+  label: 詭俗第三十五
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0015_CH7x2006_009-15a.1-h
+    span:
+    - body
+    - 14764
+    - 15379
+  label: 息辯第三十六
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0015_CH7x2006_009-16a.1-h
+    span:
+    - body
+    - 15379
+    - 15749
+  label: 量過第三十七
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0015_CH7x2006_009-17a.1-h
+    span:
+    - body
+    - 15749
+    - 16427
+  label: 勢運第三十八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0015_CH7x2006_009-18a.1-h
+    span:
+    - body
+    - 16427
+    - 16923
+  label: 傲禮第三十九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0015_CH7x2006_009-19a.1-h
+    span:
+    - body
+    - 16923
+    - 18699
+  label: 定名第四十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3j0015_CH7x2006_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 17036
+  label: 卷第九
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3j0015_CH7x2006_011-1a.1-h
+    span:
+    - body
+    - 0
+    - 584
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:ba7bcd2f08fc7605ce14dd728b4947162a0729606978715747e76d7017e3af90
