@@ -415,6 +415,7 @@ markers:
   - {type: variant, offset: 478, length: 20, content: 綸通變者刱立題目總六十有三篇合為十卷名曰, krp: 焉}
   - {type: punctuation, offset: 482, content: ，, id: KR3j0015_CH7x2006_001-bkkpn99}
   - {type: 'tls:seg', offset: 482, content: '', id: KR3j0015_CH7x2006_001-1a.93}
+  - {type: substitution, offset: 482, original: 刱, replacement: 創, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19718}}
   - {type: punctuation, offset: 486, content: ，, id: KR3j0015_CH7x2006_001-bkkpn100}
   - {type: 'tls:seg', offset: 486, content: '', id: KR3j0015_CH7x2006_001-1a.94}
   - {type: punctuation, offset: 492, content: ，, id: KR3j0015_CH7x2006_001-bkkpn101}
@@ -452,4 +453,4 @@ markers:
   - {type: xml-element, offset: 559, content: '', id: KR3j0015_CH7x2006_001-bkkxmlele4}
   body: []
   back: []
-hash: sha256:1dbc1567fd580ddf0c5388f0abe5cb0ebb1d31ba4ca24d4f617f6ff691fa7216
+hash: sha256:2ff36de466bec814e99eaeb78a1c08d930bf1766bd4d817bced8defc246e2d1b
