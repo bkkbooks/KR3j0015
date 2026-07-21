@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR3j0015/bkk/v1/markers/1
 seq: 1
 markers:
-  front:
+  body:
   - {type: variant, offset: 0, length: 4, content: 儒門經濟, WYG: 欽定四庫全書}
   - {type: page-break, offset: 0, content: '', id: KR3j0015_WYG_001-1a, image: WYG0849/WYG0849-0004c.png}
   - {type: variant, offset: 0, length: 4, content: 儒門經濟, krp: 欽定四庫全書}
@@ -451,6 +451,5 @@ markers:
   - {type: 'tls:seg', offset: 555, content: '', id: KR3j0015_CH7x2006_001-1a.106}
   - {type: punctuation, offset: 559, content: 。, id: KR3j0015_CH7x2006_001-bkkpn117}
   - {type: xml-element, offset: 559, content: '', id: KR3j0015_CH7x2006_001-bkkxmlele4}
-  body: []
   back: []
-hash: sha256:2ff36de466bec814e99eaeb78a1c08d930bf1766bd4d817bced8defc246e2d1b
+hash: sha256:bd8b147afd3bd2556146093ea44097f6922bcef27df810d058534bef91edfadc

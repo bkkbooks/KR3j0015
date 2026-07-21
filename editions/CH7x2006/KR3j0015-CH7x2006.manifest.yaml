@@ -22,7 +22,7 @@ metadata:
     short: CH7x2006
 assets:
   parts:
-  - {seq: 1, filename: KR3j0015_001-CH7x2006.yaml, hash: 'sha256:25eaa076aee5db43af2cfabf33c9e730162298e6ec5841bd39cbd1d13dcdd73e'}
+  - {seq: 1, filename: KR3j0015_001-CH7x2006.yaml, hash: 'sha256:9de89b590a5284f400d57cf5983214454f1493202d7cabdc1975ec4ba15cd60e'}
   - {seq: 2, filename: KR3j0015_002-CH7x2006.yaml, hash: 'sha256:238d72d179b253a2661f2e00bcee89e20ee117efc9cae1c870139b45bc31e834'}
   - {seq: 3, filename: KR3j0015_003-CH7x2006.yaml, hash: 'sha256:800d7dfd5f0b7b79c2a0ffc838244adcaa55b1547b6bda12cdb23f6186a9d984'}
   - {seq: 4, filename: KR3j0015_004-CH7x2006.yaml, hash: 'sha256:6023bf16224107a63d7ceae2d941451506770c248c13eddc23aae92de593d026'}
@@ -34,7 +34,7 @@ assets:
   - {seq: 10, filename: KR3j0015_010-CH7x2006.yaml, hash: 'sha256:3cd33681bfc0b8c87e0417f51b8ad447dce4b4fc7ef023530b185d3085841c71'}
   - {seq: 11, filename: KR3j0015_011-CH7x2006.yaml, hash: 'sha256:935716dda62333bcf7d9c70d4cc5a4d7c838d5bc73e4d8aef0287b16cce9e51b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3j0015_001-CH7x2006.markers.yaml, hash: 'sha256:10369866f0a043bdc68f3215055a71d801f7668f05d48b018c0a4820dd9994fb'}
+  - {seq: 1, role: markers, filename: assets/KR3j0015_001-CH7x2006.markers.yaml, hash: 'sha256:9fbff15aabb0c036cf36caa64025a34b6cd1dd15aabfbfe37154d387e66c827c'}
   - {seq: 2, role: markers, filename: assets/KR3j0015_002-CH7x2006.markers.yaml, hash: 'sha256:1740f637c0cd7d0b70385371cf6c6be33f3a1bd2e64bc7112460f5dc66ffb510'}
   - {seq: 3, role: markers, filename: assets/KR3j0015_003-CH7x2006.markers.yaml, hash: 'sha256:d4a10bbed18c91e74c8da49a3243a718d7ae2bf5b86f7658398d7af0019b2a66'}
   - {seq: 4, role: markers, filename: assets/KR3j0015_004-CH7x2006.markers.yaml, hash: 'sha256:f6f910441d561ab0b1b8a8eab5642b0a9b77aebe2a976f385f3b104c3c83b0e0'}
@@ -50,7 +50,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3j0015_CH7x2006_001-1a.1-h
     span:
-    - front
+    - body
     - 0
     - 559
   label: 儒門經濟長短經序
@@ -476,4 +476,4 @@ table_of_contents:
   label: 跋
   type: section
   level: 1
-hash: sha256:ba7bcd2f08fc7605ce14dd728b4947162a0729606978715747e76d7017e3af90
+hash: sha256:9ee968741c60cc1c047aaaaf9f8fa16fd59307da9385c9b588c27b57c4f35efe
